@@ -24,4 +24,4 @@ class Singleton() { <br/>
 }</pre>
 <br/>
 For Python, a simple alternative method is to use **Borg**.<br/>
-Implementation is easy. Simply re-bind the self.\__dict__ to a class-attribute dict!<br/>
+Implementation is easy. Simply re-bind the self.\_\_dict\_\_ to a class-attribute dict!<br/>
