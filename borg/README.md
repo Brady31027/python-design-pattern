@@ -19,6 +19,6 @@ class Singleton() { <br/>
 		if (ins == NULL) { <br/>
 		ins = new Singleton();<br/>
 		}<br/>
-	return ins<br/>
-	}<br/>
+		return ins<br/>
+		}<br/>
 }</pre>
