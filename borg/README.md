@@ -9,6 +9,7 @@ Basic Singleton implementation includes the following concept: <br/>
 <br/>
 E.g.<br/>
 <br/>
+<pre>
 class Singleton() { <br/>
 	private static Singleton ins = NULL; <br/>
 	**private** Singleton(){ <br/>
@@ -20,4 +21,4 @@ class Singleton() { <br/>
 		}<br/>
 	return ins<br/>
 	}<br/>
-}
+}</pre>
